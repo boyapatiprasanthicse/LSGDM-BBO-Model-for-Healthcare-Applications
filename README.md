@@ -128,7 +128,7 @@ For commercial use or licensing inquiries, please contact the authors.
 
 ## 👩‍💻 Author Contact
 
-- **Prasanthi Boyapati** — [bprasanthi@rvrjc.ac.in](mailto:bprasanthi@rvrjc.ac.in)
+- **Prasanthi Boyapati** — [bprasanthi@rvrjc.ac.in](mailto:prasanthiboyapaticse@gmail.com)
 
 ---
 
